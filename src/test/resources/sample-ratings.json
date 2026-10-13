@@ -1,0 +1,24 @@
+{
+  "ratings": [
+    {
+      "customerInfo": {
+        "id": 123,
+        "name": "Acme Corp"
+      },
+      "statements": [
+        { "id": 456 },
+        { "id": 789 }
+      ]
+    },
+    {
+      "customerInfo": {
+        "id": 124,
+        "name": "Beta LLC"
+      },
+      "statements": [
+        { "id": 101 },
+        { "id": 102 }
+      ]
+    }
+  ]
+}
